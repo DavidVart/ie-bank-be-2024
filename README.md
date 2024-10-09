@@ -82,7 +82,7 @@ You now have a self-contained environment ready for writing Flask code. VS Code 
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Flask",
+            "name": "IE Bank Backend",
             "type": "python",
             "request": "launch",
             "module": "flask",
